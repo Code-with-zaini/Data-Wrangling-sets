@@ -133,5 +133,5 @@ Through these labs, I gained hands-on experience with:
 
 ## 📌 Notes
 - Car dataset is analyzed in `Car Data_Analysis.ipynb` and cleaned version is stored in `cleaned dataset.csv`.  
-- Laptop dataset is analyzed in `Laptop Data_Analysis.ipynb`, original data is in `Laptop_DataSet.csv`, and cleaned version is also stored in `cleaned dataset.csv`.  
+- Laptop dataset is analyzed in `Laptop Data_Analysis.ipynb`, and cleaned version is also stored in `cleaned dataset.csv`.  
 - This work is part of my **Data Science coursework on Coursera**.  
